@@ -6,7 +6,7 @@ Web server interface hosted on the board
 
 1.Switch control: Turn appliances on/off
 
-2.Light dimming: Adjust brightness levels using PWM
+2.Light dimming: Adjust brightness levels using triac
 
 3.Fan speed control: Fine-tune fan speed
 
