@@ -26,5 +26,5 @@ Web server interface hosted on the board
 
 •HTML/CSS/JavaScript for web UI
 
-•Arduino / PlatformIO for firmware
+•Arduino
 
