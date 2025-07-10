@@ -14,4 +14,17 @@ Web server interface hosted on the board
 
 5.Real-time status updates from the board
 
+💡 Use Cases
+•Home automation (lights, fans, smart switches)
+
+•Smart classroom or lab setups
+
+•DIY IoT automation projects
+
+🧰 Built With
+•Microcontroller (ESP8266 / ESP32 recommended)
+
+•HTML/CSS/JavaScript for web UI
+
+•Arduino / PlatformIO for firmware
 
