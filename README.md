@@ -4,15 +4,15 @@ A smart control board that can be operated via your phone through a built-in web
 Wi-Fi based control via smartphone browser (no app needed)
 Web server interface hosted on the board
 
-1.Switch control: Turn appliances on/off
+•Switch control: Turn appliances on/off
 
-2.Light dimming: Adjust brightness levels using triac
+•Light dimming: Adjust brightness levels using triac
 
-3.Fan speed control: Fine-tune fan speed
+•Fan speed control: Fine-tune fan speed
 
-4.Responsive UI: Mobile-friendly control panel
+•Responsive UI: Mobile-friendly control panel
 
-5.Real-time status updates from the board
+•Real-time status updates from the board
 
 💡 Use Cases
 
