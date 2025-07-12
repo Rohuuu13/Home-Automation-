@@ -22,7 +22,7 @@ Web server interface hosted on the board
 •DIY IoT automation projects
 
 🧰 Built With
-•Microcontroller (ESP8266 / ESP32 recommended)
+•Microcontroller (ESP8266)
 
 •HTML/CSS/JavaScript for web UI
 
